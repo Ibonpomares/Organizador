@@ -1,10 +1,19 @@
 {
-  "name": "Organiza — Agenda personal",
+  "name": "Organiza · Agenda personal",
   "short_name": "Organiza",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#f7f6f2",
   "theme_color": "#f7f6f2",
   "lang": "es",
-  "description": "Agenda personal para organizar trabajo, familia, ejercicio y tiempo personal."
+  "description": "Organiza trabajo, familia, ejercicio y tiempo para ti.",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
 }
